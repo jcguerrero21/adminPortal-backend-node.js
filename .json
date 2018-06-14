@@ -1,0 +1,192 @@
+peticion 1
+
+{
+    "Validacion": {
+        "estadoFirmas": 0,
+        "fechaValidacion": "2018-05-30T00:00:00.000+02:00",
+        "expediente": 5417374,
+        "idProceso": 2544,
+        "nifTecnico": "75126275H",
+        "fechaProcesoCI": "2018-06-06T10:54:47.487+02:00",
+        "fechaProximoSeguimiento": "2018-09-23T00:00:00.000+02:00",
+        "nombreTecnico": "RAFAEL MURILLO DIAZ",
+        "localidadEntidad": "CAROLINA, LA",
+        "fechaInicio": "2018-05-28T00:00:00.000+02:00",
+        "nombreEntidad": "UNIDAD SAE LA CAROLINA"
+    },
+    "Actuacion": [{
+        "id": 1,
+        "fechaDesde": "2018-05-29T00:00:00.000+02:00",
+        "fechaCreacionActuacionFamilia": "2018-05-30T00:00:00.000+02:00",
+        "actuacion": "Proceso de orientación laboral",
+        "compromiso": "Itinerario Personalizado de Inserción",
+        "fechaHasta": "2019-03-23T00:00:00.000+01:00",
+        "letraDocumento": "B",
+        "numeroDocumento": 50040950,
+        "tipoDocumento": "D",
+        "fechaCreacionActuacion": "2018-05-30T00:00:00.000+02:00",
+        "expediente": 5417374
+    }]
+}
+
+
+Peticion 2
+
+{
+    "Validacion": {
+        "estadoFirmas": 0,
+        "fechaValidacion": "2018-05-30T00:00:00.000+02:00",
+        "idProceso": 2540,
+        "nifTecnico": "75126275H",
+        "fechaProcesoCI": "2018-06-06T10:57:21.337+02:00",
+        "fechaProximoSeguimiento": "2018-10-19T00:00:00.000+02:00",
+        "nombreTecnico": "RAFAEL MURILLO DIAZ",
+        "expediente": 5418139,
+        "localidadEntidad": "CAROLINA, LA",
+        "fechaInicio": "2018-05-29T00:00:00.000+02:00",
+        "nombreEntidad": "UNIDAD SAE LA CAROLINA"
+    },
+    "Actuacion": [{
+            "id": 1,
+            "fechaDesde": "2018-05-29T00:00:00.000+02:00",
+            "fechaCreacionActuacionFamilia": "2018-05-30T00:00:00.000+02:00",
+            "actuacion": "Proceso de orientación laboral",
+            "compromiso": "Itinerario Personalizado de Inserción",
+            "fechaHasta": "2019-04-19T00:00:00.000+02:00",
+            "letraDocumento": "W",
+            "numeroDocumento": 15510443,
+            "tipoDocumento": "D",
+            "fechaCreacionActuacion": "2018-05-30T00:00:00.000+02:00",
+            "expediente": 5418139
+        },
+        {
+            "id": 2,
+            "fechaDesde": "2018-05-29T00:00:00.000+02:00",
+            "fechaCreacionActuacionFamilia": "2018-05-30T00:00:00.000+02:00",
+            "actuacion": "Proceso de orientación laboral",
+            "compromiso": "Itinerario Personalizado de Inserción",
+            "fechaHasta": "2019-04-19T00:00:00.000+02:00",
+            "letraDocumento": "A",
+            "numeroDocumento": 15513940,
+            "tipoDocumento": "D",
+            "fechaCreacionActuacion": "2018-05-30T00:00:00.000+02:00",
+            "expediente": 5418139
+        }
+    ]
+}
+
+Peticion 3
+
+{
+    "Validacion": {
+        "estadoFirmas": 1,
+        "fechaValidacion": "2018-05-30T00:00:00.000+02:00",
+        "idProceso": 2532,
+        "nifTecnico": "25998028R",
+        "fechaProcesoCI": "2018-06-06T11:54:47.237+02:00",
+        "fechaProximoSeguimiento": "2018-11-07T00:00:00.000+01:00",
+        "nombreTecnico": "MARÍA DOLORES HERVÁS MOLINA",
+        "expediente": 5417334,
+        "localidadEntidad": "JAEN",
+        "fechaInicio": "2018-05-28T00:00:00.000+02:00",
+        "nombreEntidad": "ASOCIACIÓN PARA LA INTEGRACIÓN Y DESARROLLO COMUNITARIO -AVANCE-"
+    },
+    "Actuacion": [{
+            "id": 1,
+            "fechaDesde": "2018-05-30T00:00:00.000+02:00",
+            "fechaCreacionActuacionFamilia": "2018-05-30T00:00:00.000+02:00",
+            "actuacion": "No asiste",
+            "compromiso": "",
+            "fechaHasta": "2019-05-07T00:00:00.000+02:00",
+            "letraDocumento": "L",
+            "numeroDocumento": 78686768,
+            "tipoDocumento": "D",
+            "fechaCreacionActuacion": "2018-05-30T00:00:00.000+02:00",
+            "expediente": 5417334
+        },
+        {
+            "id": 2,
+            "fechaDesde": "2018-05-30T00:00:00.000+02:00",
+            "fechaCreacionActuacionFamilia": "2018-05-30T00:00:00.000+02:00",
+            "actuacion": "No proceden medidas por otras causas",
+            "compromiso": "",
+            "fechaHasta": "2019-05-07T00:00:00.000+02:00",
+            "letraDocumento": "X",
+            "numeroDocumento": 52541371,
+            "tipoDocumento": "D",
+            "fechaCreacionActuacion": "2018-05-30T00:00:00.000+02:00",
+            "expediente": 5417334
+        }
+    ]
+}
+
+Petición 4
+
+{
+    "Validacion": {
+        "estadoFirmas": 0,
+        "fechaValidacion": "2018-05-30T00:00:00.000+02:00",
+        "idProceso": 2542,
+        "nifTecnico": "77357824S",
+        "fechaProcesoCI": "2018-06-06T12:02:44.273+02:00",
+        "fechaProximoSeguimiento": "2018-11-11T00:00:00.000+01:00",
+        "nombreTecnico": "M DEL MAR CALABRUS BARES",
+        "expediente": 5417378,
+        "localidadEntidad": "JAEN",
+        "fechaInicio": "2018-05-30T00:00:00.000+02:00",
+        "nombreEntidad": "FUNDACIÓN PROYECTO DON BOSCO -PERSONAS EN RIESGO DE EXCLUSIÓN-"
+    },
+    "Actuacion": [{
+            "id": 2,
+            "fechaDesde": "2018-05-30T00:00:00.000+02:00",
+            "fechaCreacionActuacionFamilia": "2018-05-30T00:00:00.000+02:00",
+            "actuacion": "Proceso de orientación laboral",
+            "compromiso": "Itinerario Personalizado de Inserción",
+            "fechaHasta": "2019-05-11T00:00:00.000+02:00",
+            "letraDocumento": "X",
+            "numeroDocumento": 26476230,
+            "tipoDocumento": "D",
+            "fechaCreacionActuacion": "2018-05-30T00:00:00.000+02:00",
+            "expediente": 5417378
+        },
+        {
+            "id": 4,
+            "fechaDesde": "2018-05-30T00:00:00.000+02:00",
+            "fechaCreacionActuacionFamilia": "2018-05-30T00:00:00.000+02:00",
+            "actuacion": "No proceden medidas por otras causas",
+            "compromiso": "",
+            "fechaHasta": "2019-05-11T00:00:00.000+02:00",
+            "letraDocumento": "W",
+            "numeroDocumento": 26536206,
+            "tipoDocumento": "D",
+            "fechaCreacionActuacion": "2018-05-30T00:00:00.000+02:00",
+            "expediente": 5417378
+        },
+        {
+            "id": 1,
+            "fechaDesde": "2018-05-30T00:00:00.000+02:00",
+            "fechaCreacionActuacionFamilia": "2018-05-30T00:00:00.000+02:00",
+            "actuacion": "Proceso de orientación laboral",
+            "compromiso": "Itinerario Personalizado de Inserción",
+            "fechaHasta": "2019-05-11T00:00:00.000+02:00",
+            "letraDocumento": "R",
+            "numeroDocumento": 53062082,
+            "tipoDocumento": "D",
+            "fechaCreacionActuacion": "2018-05-30T00:00:00.000+02:00",
+            "expediente": 15348540
+        },
+        {
+            "id": 3,
+            "fechaDesde": "2018-05-30T00:00:00.000+02:00",
+            "fechaCreacionActuacionFamilia": "2018-05-30T00:00:00.000+02:00",
+            "actuacion": "Proceso de orientación laboral",
+            "compromiso": "Itinerario Personalizado de Inserción",
+            "fechaHasta": "2019-05-11T00:00:00.000+02:00",
+            "letraDocumento": "H",
+            "numeroDocumento": 26517960,
+            "tipoDocumento": "D",
+            "fechaCreacionActuacion": "2018-05-30T00:00:00.000+02:00",
+            "expediente": 15348540
+        }
+    ]
+}
